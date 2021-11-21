@@ -1,4 +1,0 @@
-".\Objects\STARTUP.obj",
-".\Objects\robot.obj" 
-TO ".\Objects\slave" 
-PRINT(".\Listings\slave.m51") RAMSIZE(256) 
